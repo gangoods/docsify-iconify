@@ -3,14 +3,14 @@
 
 ## usage 
 
-- import js and css
+- download them , and place them somewhere
 
 you need import the two file in the index.html file
 ```
 <link rel="stylesheet" href="./css/base.css">
 ....
 ....
-<script src="./js/iconify.transfer.js"></script>
+<script src="./js/iconify.transfer.min.js"></script>
 
 <script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 ```
