@@ -6,7 +6,7 @@
 - download them , and place them somewhere
 
 you need import the two file in the index.html file
-```
+```html
 <link rel="stylesheet" href="./css/base.css">
 ....
 ....
